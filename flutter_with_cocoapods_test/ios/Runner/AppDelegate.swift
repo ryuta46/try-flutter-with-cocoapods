@@ -1,5 +1,6 @@
 import UIKit
 import Flutter
+import NemSwift
 
 @UIApplicationMain
 @objc class AppDelegate: FlutterAppDelegate {
